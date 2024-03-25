@@ -12,4 +12,10 @@ Please cite our paper as
 
 Diebold, F.X. and Shin, M., 2019. Machine learning for regularized survey forecast combination: Partially-egalitarian lasso and its derivatives. International Journal of Forecasting, 35(4), pp.1679-1691.
 
+If you have any questions, please do not hesitate to contact us:
 
+**Francis X. Diebold**  
+Email: [fdiebold@upenn.edu](mailto:fdiebold@upenn.edu)
+
+**Minchul Shin**  
+Email: [visiblehand@gmail.com](mailto:visiblehand@gmail.com)
