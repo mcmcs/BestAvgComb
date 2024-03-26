@@ -4,7 +4,7 @@ There are three files included in this folder:
 
 1. `H1_gdp.csv`: This is the main data file.
 
-2. `replication_DS2019_tab_common.R`: This file replicates the common part of the tables.
+2. `replication_DS2019_tab_common.R`: This file replicates the common part of the Tables.
 
 3. `replication_DS2019_tab045.R`: This file replicates Tables 4 and 5.
 
